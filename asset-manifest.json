@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/senchik123424.github.io/tkbo-04-22selez/static/css/main.31b22f78.css",
-    "main.js": "/senchik123424.github.io/tkbo-04-22selez/static/js/main.93349226.js",
-    "static/js/453.1b6cbde4.chunk.js": "/senchik123424.github.io/tkbo-04-22selez/static/js/453.1b6cbde4.chunk.js",
-    "index.html": "/senchik123424.github.io/tkbo-04-22selez/index.html",
-    "main.31b22f78.css.map": "/senchik123424.github.io/tkbo-04-22selez/static/css/main.31b22f78.css.map",
-    "main.93349226.js.map": "/senchik123424.github.io/tkbo-04-22selez/static/js/main.93349226.js.map",
-    "453.1b6cbde4.chunk.js.map": "/senchik123424.github.io/tkbo-04-22selez/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/tkbo-04-22selez/static/css/main.31b22f78.css",
+    "main.js": "/tkbo-04-22selez/static/js/main.d716a696.js",
+    "static/js/453.1b6cbde4.chunk.js": "/tkbo-04-22selez/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/tkbo-04-22selez/index.html",
+    "main.31b22f78.css.map": "/tkbo-04-22selez/static/css/main.31b22f78.css.map",
+    "main.d716a696.js.map": "/tkbo-04-22selez/static/js/main.d716a696.js.map",
+    "453.1b6cbde4.chunk.js.map": "/tkbo-04-22selez/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31b22f78.css",
-    "static/js/main.93349226.js"
+    "static/js/main.d716a696.js"
   ]
 }
