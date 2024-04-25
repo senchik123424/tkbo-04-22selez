@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #607be91c !important;
+    background-color: #537891;
 }
 #root {
     /* flex-контейнер для <header>, <main> и <footer> */
@@ -63,10 +63,10 @@ nav {
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    color: #fff;
+    color: #ffffff;
 }
 .basket{
-    color: #6dbff3;
+    color: #000000;
 }
 
 .cart-modal {
@@ -79,23 +79,23 @@ nav {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #fff;
+    background-color: #ffffff;
     padding: 10px;
-    border: 6px solid #6dbff3;
+    border: 6px solid #081823;
 }
 
 .cart-modal-close {
     position: absolute;
     top: 0;
     right: 0;
-    color: #6dbff3;
+    color: #081823;
     cursor: pointer;
     font-weight: bold;
 }
 
 .cart-item-delete {
     cursor: pointer;
-    color: #6dbff3;
+    color: #081823;
 }
 
 .show-alert {
@@ -103,23 +103,23 @@ nav {
     z-index: 100;
     right: 60px;
     top: 10px;
-    background-color: #000;
+    background-color: #537891;
     color: #fff;
     padding: 10px;
 }
 .teal.lighten-1 {
-    background-color: #607be9 !important;
+    background-color: #030E17 !important;
 }
 .card .card-action {
-    background-color: #607be98f !important;
+    background-color: #3D6E91 !important;
 
 }
 .btn-small {
-    background-color: #607be9 !important;
+    background-color: #030E17 !important;
 
 }
 .card .card-content {
-    background-color: #607be963 !important;
+    background-color: #030E17 !important;
 }
 .card .card-content .card-title {
     font-weight: 700;
